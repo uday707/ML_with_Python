@@ -18,3 +18,6 @@ print("IPython version: {}".format(IPython.__version__))
 
 import sklearn
 print("scikit-learn version: {}".format(sklearn.__version__))
+
+import seaborn as sns
+print("seaborn version: {}".format(sns.__version__))
